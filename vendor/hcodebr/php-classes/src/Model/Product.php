@@ -171,8 +171,4 @@ class Product extends Model {
 
 }
 
-
-
-
-
 ?>
